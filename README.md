@@ -1,3 +1,3 @@
-#Version#1.1.7$Version$
-#Patch#12.60$Patch$
+#Version#1.1.8$Version$
+#Patch#12.22$Patch$
 #Info#Test Build$Info$
